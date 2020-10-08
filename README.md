@@ -1,3 +1,8 @@
+# Archived Repository
+
+SANSA got easier to use! All its code has been consolidated into a single repository at https://github.com/SANSA-Stack/SANSA-Stack
+
+
 # SANSA-Stack
 This project comprises the whole Semantic Analytics Stack (SANSA). For a detailed description of SANSA, please visit http://sansa-stack.net. 
 
